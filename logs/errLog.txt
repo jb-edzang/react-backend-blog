@@ -1,0 +1,6 @@
+20231027	18:12:13	d748aa0d-acf4-4968-bb83-fb74328c1871	SyntaxError: Unexpected token 'p', "#" is not valid JSON
+20231029	10:23:33	409c2240-f4c3-4c1f-9f87-f8cb870bf2cd	SyntaxError: Unexpected token '"', "#" is not valid JSON
+20231031	14:06:13	20f14148-e38c-4330-8afa-378420bad5bf	Error: ENOENT: no such file or directory, stat '/Users/jean/blogBackend/src/index.js'
+20231031	14:09:11	eca4bbbd-c0c4-43aa-936e-1c6c0eb39e82	Error: ENOENT: no such file or directory, stat '/Users/jean/blogBackend/src/index.js'
+20231031	14:10:16	5305075e-ec56-4891-98e0-f9a9e9ec4f67	Error: ENOENT: no such file or directory, stat '/Users/jean/blogBackend/src/index.js'
+20231031	14:10:24	40657033-96dc-4d40-9334-289e2afeb01c	Error: ENOENT: no such file or directory, stat '/Users/jean/blogBackend/src/index.js'
